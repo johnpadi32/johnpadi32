@@ -1,16 +1,13 @@
-### Hi there 👋
+![MasterHEad](https://media-exp1.licdn.com/dms/image/C5616AQHrnsSrB6gt8w/profile-displaybackgroundimage-shrink_350_1400/0/1614356198379?e=1673481600&v=beta&t=mvVZGC5AVlZ1FkJWbNZxCCuQDHQMLPfU-QUxeQGlQCI)
+<h1 align="center">Hi 👋, I'm John Padilla</h1>
+<h3 align="center">I’m a promising, passionate and self-motivated software developer who is continuously learning and growing. seeking a challenging position where my technical, analytical and problem-solving skills that can be a value addition for the profitable growth of the organization and help me achieve personal goals.</h3>
 
-<!--
-**johnpadi32/johnpadi32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **johnpadi8790@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/john padilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john padilla" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
